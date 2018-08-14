@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/*
+public/scripts/.module-cache/*
+nohup*
+.idea/*
+bin/.local-pids/*
+*.rdb
+*.dump
+
